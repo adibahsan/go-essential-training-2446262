@@ -2,3 +2,8 @@
 node_modules
 .tmp
 npm-debug.log
+/.idea/.gitignore
+/.idea/go-essential-training-2446262.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
